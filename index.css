@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background-color: #8d9772;
+}
+#app{
+    width:500px;
+    height:600px;
+    margin:0 auto;
+    padding:2rem;
+    background-color: #e4e2e9;
+    color:#130707;
+}
+button{
+    margin-bottom:1rem;
+    padding:0.25rem;
+}
+input{
+    width:100%;
+    background-color: #d9d6e1;
+    padding:0.30rem;
+}
